@@ -19,7 +19,6 @@ footer: Programming Practical Training | T.Shimizu © 2025
 
 # 今回の授業内容
 
-- [前回の課題の解答例](#前回の授業課題と宿題の解答例)
 - [アルゴリズム](#アルゴリズム)
   - [ソートアルゴリズムについて](#ソートアルゴリズムについて)
   - [バブルソート](#バブルソート)
@@ -27,21 +26,6 @@ footer: Programming Practical Training | T.Shimizu © 2025
   - [挿入ソート](#挿入ソート)
 - [課題の提出方法について](#課題の提出方法について)
 - [課題](#課題-1)
-
----
-
-<div Align=center>
-
-# 前回の授業課題と宿題の解答例
-
-</div>
-
----
-
-# 前回の授業課題と宿題の解答例
-
-SAの学生さんによる解答例です．
-https://shimizu-lab.notion.site/2024-11826a533567807390dcfa0a5e288e15?pvs=4
 
 ---
 
